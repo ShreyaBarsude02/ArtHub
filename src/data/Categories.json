@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name" : "Sculpture",
+        "tag" : "sculpture",
+        "img" : "src/assets/category-images/skulpture.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Painting",
+        "tag" : "painting",
+        "img" : "src/assets/category-images/painting.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Books",
+        "tag" : "books",
+        "img" : "src/assets/category-images/books.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Fashion Designer",
+        "tag" : "fashiondesigner",
+        "img" : "src/assets/category-images/fashion-designer.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Photography",
+        "tag" : "photography",
+        "img" : "src/assets/category-images/photography.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "Calligraphy",
+        "tag" : "calligraphy",
+        "img" : "src/assets/category-images/calligraphy.jpg"
+    }
+]
